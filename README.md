@@ -6,6 +6,7 @@ Este exercício tem como objetivo consolidar conhecimentos sobre testes unitári
 
 ## Parte 1: Fazer todos os testes funcionarem
 
+
 Nesta primeira etapa, você deve:
 
 1. **Executar os testes** para identificar quais estão falhando
